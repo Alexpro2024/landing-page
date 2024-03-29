@@ -1,0 +1,31 @@
+* {
+    font-family: roboto;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #1f2937;
+    padding: 24px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header p {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.header ul {
+    display: flex;
+    list-style-type: none;
+    gap: 16px;
+}
+
+.header a {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
