@@ -21,7 +21,7 @@
 .header ul {
     display: flex;
     list-style-type: none;
-    gap: 16px;
+    gap: 24px;
 }
 
 .header a {
