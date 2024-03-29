@@ -125,3 +125,33 @@ body {
     text-align: start;
 }
 
+.fourth-container {
+    padding: 96px 15%;
+}
+
+.fourth-subcontainer {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 0;
+    border-radius: 8px;
+}
+
+.signup h2 {
+    color: #F9FAF8;
+}
+
+.signup p {
+    color: #E5E7EB;
+}
+
+.fourth-subcontainer button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 3px solid #F9FAF8;
+    padding: 5px 25px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 18px;
+}
