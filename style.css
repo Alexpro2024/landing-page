@@ -44,11 +44,11 @@ body {
     gap: 48px;
 }
 
-.first-container-left, .first-container-right {
-    width: 50%;
+.first-container-left {
+    max-width: 500px;
 }
 
-.first-container h1 {
+.first-container-left h1 {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
@@ -61,7 +61,7 @@ body {
     margin-bottom: 12px;
 }
 
-.first-container button {
+.first-container-left button {
     font-size: 18px;
     font-weight: bold;
     background-color: #3882F6;
@@ -71,10 +71,9 @@ body {
     border-radius: 8px;
 }
 
-.first-container-right p {
-    background-color: #E5E7EB;
-    text-align: center;
-    padding: 20% 0;
+.first-container img {
+    width: 250px;
+    height: auto;
 }
 
 .second-container {
