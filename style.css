@@ -98,13 +98,6 @@ body {
     width: 200px;
 }
 
-.temp-img {
-    width: 200px;
-    height: 200px;
-    border: 3px solid #3882F6;
-    border-radius: 8px;
-}
-
 .third-container {
     text-align: center; 
     padding: 150px 20%;
