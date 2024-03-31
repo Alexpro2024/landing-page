@@ -9,6 +9,8 @@ body {
     flex-direction: column;
 }
 
+
+
 .header {
     background-color: #1f2937;
     padding: 24px 15%;
@@ -94,9 +96,16 @@ body {
     padding-bottom: 96px;
 }
 
-.img-subcontainer {
+.img-subcontainer img, .img-subcontainer {
     width: 200px;
+    height: auto;
 }
+
+.img-subcontainer img {
+    border-radius: 12px;
+}
+
+
 
 .third-container {
     text-align: center; 
